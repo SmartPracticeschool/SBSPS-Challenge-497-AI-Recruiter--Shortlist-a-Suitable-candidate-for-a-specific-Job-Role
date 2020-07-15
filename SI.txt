@@ -1,0 +1,12 @@
+
+1) HTML WEbsite (we thought we would do flask for python extraction but that is left as furure scope or scope of the project )
+2) Once the candidate fills the data , that same data is displayed in the next page
+3)PHP database (if we can do , we'll do for storing the resume and photo)
+4)IBM Cloud services- Watson Assistant for chatbot-ALIA
+    Voice agent (not done)
+     Node-red for deploying but done on Heroku
+
+
+SOMETHING THAT JUST CAME TO MIND TO USE WATSON STUDIO FOR IMAGE CLASSIFICATION OF THE PHOTO INCASE WE DONT DO VOICE 
+
+5) Presentation 
